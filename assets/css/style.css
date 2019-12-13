@@ -1,0 +1,52 @@
+body{
+    background: rgb(255, 255, 255);
+}
+/* .second{
+    height: 200px;
+    width: 500px;
+    margin-left: 100px;
+    border:2px 2px solid #385F71;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    margin-left: 30px;
+}
+
+
+.table{
+    width: 400px;
+
+} */
+.bros{
+    background: url('../img/horoshit.jpg') center center fixed ;
+    /* width: 999px; */
+    /* height: 370px; */
+}
+
+
+.mars{
+    text-align: center;
+    /* height: 300px; */
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.car{
+    margin-bottom: 50px;
+    margin-top:30px ;
+    margin-left:50px ;
+    padding-left: -30px;
+     border:1px solid lightblue;
+    border-radius: 10px;
+}
+.span{
+    width: 300px;
+    height:40px;
+    margin-left: 30px;
+}
+.table {
+    width: 200px;
+}
+
+
